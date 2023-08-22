@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Marcelo A Diaz</h1>
+<h1 align="center">Olá 👋, Eu sou Marcelo A Diaz</h1>
+<h2 align="center"> porque em portugues? porque amo o idioma, e assim como aprendi uma nova língua, pongo la misma pasion por el desarrollo web, sea ud. bem-vindo!<h2>
 <h3 align="center">Full Stack | JavaScript | React Js | React Native | Node | Sequelize | PostgreSQL | HTML | CSS | Software University Analyst | Proactive</h3>
 
-- 🔭 I’m currently working on **proyectos de porfolio**
+- 🔭 Atualmente estou trabalhando em **proyectos de porfolio**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱Atualmente estou aprendendo **Python**
 
-- 💬 Ask me about **react**
+- 💬 Pergunte-me sobre **React**
 
-- 📫 How to reach me **marceloardiaz@gmail.com**
+- 📫 Como chegar até mim**marceloardiaz@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-a-diaz-6a7926223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcelo-a-diaz-6a7926223/" height="30" width="40" /></a>
 </p>
