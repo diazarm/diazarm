@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Marcelo A Diaz</h1>
-<h2 align="center"> porque em portugues? pois adoro o idioma, e assim como aprendi um novo idioma, coloquei a mesma paixão pelo desenvolvimento web, seja você. Bem-vindo!<h2>
+<h2 align="center"> Porque em portugues? pois adoro o idioma, e assim como aprendi um novo idioma, coloquei a mesma paixão pelo desenvolvimento web, seja você. Bem-vindo!<h2>
 <h3 align="center">Full Stack | JavaScript | React Js | React Native | Node | Sequelize | PostgreSQL | HTML | CSS | Software University Analyst | Proactive</h3>
 
 - 🔭 Atualmente estou trabalhando em **proyectos de porfolio**
