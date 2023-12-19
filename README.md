@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Marcelo A Diaz</h1>
 <h2 align="center"> Porque em portugues? pois adoro o idioma, e assim como aprendi um novo idioma, coloquei a mesma paixão pelo desenvolvimento web, seja você. Bem-vindo!<h2>
-<h3 align="center">Full Stack | JavaScript | React Js | React Native | Node | Sequelize | PostgreSQL | HTML | CSS | Software University Analyst | Proactive | Project Manager / no-country  </h3>
+<h3 align="center">Backend Developer | Node | Express | Sequelize | PostgreSQL | Learning Python - AWS - Docker - Mongodb |  </h3>
 
-- 🔭 Atualmente estou trabalhando em **proyectos de porfolio**
+- 🔭 Atualmente estou trabalhando em **Backend**
 
 - 🌱Atualmente estou aprendendo **Python**
 
-- 💬 Pergunte-me sobre **React**
+- 💬 Pergunte-me sobre ** um viagem **
 
 - 📫 Como chegar até mim**marceloardiaz@gmail.com**
 
